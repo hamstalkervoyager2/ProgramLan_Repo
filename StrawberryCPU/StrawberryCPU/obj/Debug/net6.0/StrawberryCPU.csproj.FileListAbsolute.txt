@@ -1,0 +1,15 @@
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\bin\Debug\net6.0\StrawberryCPU.exe
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\bin\Debug\net6.0\StrawberryCPU.deps.json
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\bin\Debug\net6.0\StrawberryCPU.runtimeconfig.json
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\bin\Debug\net6.0\StrawberryCPU.dll
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\bin\Debug\net6.0\StrawberryCPU.pdb
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.csproj.AssemblyReference.cache
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.AssemblyInfoInputs.cache
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.AssemblyInfo.cs
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.csproj.CoreCompileInputs.cache
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.dll
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\refint\StrawberryCPU.dll
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.pdb
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\StrawberryCPU.genruntimeconfig.cache
+C:\Users\aeido\OneDrive\Documents\GitHub\hamstalkervoyager2\Github-Repos\ProgramLan_Repo\StrawberryCPU\StrawberryCPU\obj\Debug\net6.0\ref\StrawberryCPU.dll
